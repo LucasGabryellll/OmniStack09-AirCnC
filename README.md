@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://github.com/LucasGabryellll/OmniStack09-AirCnC/commit/b4c925358f3bace2ed44629bdd6a62012315efcb">
+  <img alt="GitHub language count" src="https://github.com/LucasGabryellll/OmniStack09-AirCnC/blob/master/logo-git.png">
 
 ![](https://github.com/LucasGabryellll/OmniStack09-AirCnC/blob/master/aircnc-git.png)
 
